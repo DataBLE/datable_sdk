@@ -23,10 +23,6 @@ In less than 10 minutes, you are able to see the Beacons around!
 | [![i1] [sdk-image]] [sdk-doc]	    		| [![i2] [app-image]] [app-doc]   					|
 | Documentation for the SDK Developers	    | Documentation for the Application Providers       |
 
-##Copyright
-
-datable is copyright (c) Ralph Acosta, Shannon Skipper, Manhattan Perry
-
 [sdk-doc]: https://github.com/SkuRun/SRBeacon/wiki/SDK-Development
 [sdk-image]: https://github.com/SkuRun/SRBeacon/wiki/images/sdk.png
 [app-doc]: https://github.com/SkuRun/SRBeacon/wiki/Application-Providers
