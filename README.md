@@ -31,3 +31,7 @@ In less than 10 minutes, you are able to see the Beacons around!
 ##License
 
 GPLv3
+
+##Authors
+
+Kostinatyn @KostiantynZameisov and other authors
