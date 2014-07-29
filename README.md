@@ -28,6 +28,10 @@ In less than 10 minutes, you are able to see the Beacons around!
 [app-doc]: https://github.com/SkuRun/SRBeacon/wiki/Application-Providers
 [app-image]: https://github.com/SkuRun/SRBeacon/wiki/images/app.png
 
+## Contributing
+
+Please do. Just start an Issue ticket with your idea or open a Pull Request!
+
 ##License
 
 GPLv3
